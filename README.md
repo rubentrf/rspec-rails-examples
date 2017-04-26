@@ -1,6 +1,6 @@
 # RSpec Rails Examples [![Build Status](https://travis-ci.org/rubentrf/rspec-rails-examples.svg?branch=ci-tests)](https://travis-ci.org/rubentrf/rspec-rails-examples) [![CircleCI Build statys](https://circleci.com/gh/rubentrf/rspec-rails-examples/tree/ci-tests.svg?style=shield&circle-token=092b40db33b7e3da1583ed4ff0fd3a339b4f20d9)](https://circleci.com/gh/rubentrf/rspec-rails-examples)
 
-Testing Jenkins
+Testing Jenkins test it again
 
 > An RSpec cheatsheet in the form of a Rails app. Learn how to expertly test Rails apps from a model codebase
 
