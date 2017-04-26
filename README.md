@@ -1,4 +1,6 @@
-# RSpec Rails Examples [![Build Status](https://travis-ci.org/eliotsykes/rspec-rails-examples.svg?branch=master)](https://travis-ci.org/eliotsykes/rspec-rails-examples) [![Join the chat at https://gitter.im/eliotsykes/rspec-rails-examples](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eliotsykes/rspec-rails-examples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# RSpec Rails Examples [![Build Status](https://travis-ci.org/rubentrf/rspec-rails-examples.svg?branch=ci-tests)](https://travis-ci.org/rubentrf/rspec-rails-examples) [![CircleCI Build statys](https://circleci.com/gh/rubentrf/rspec-rails-examples/tree/ci-tests.svg?style=shield&circle-token=092b40db33b7e3da1583ed4ff0fd3a339b4f20d9)](https://circleci.com/gh/rubentrf/rspec-rails-examples)
+
+Testing Jenkins test it again
 
 > An RSpec cheatsheet in the form of a Rails app. Learn how to expertly test Rails apps from a model codebase
 
@@ -337,3 +339,11 @@ Travis CI configuration how-to and example:
 - Lee Smith https://github.com/leesmith
 - Abdullah Alger http://www.abdullahalger.com/
 - Your name here, contributions are welcome and easy, just fork the GitHub repo, make your changes, then submit your pull request! Please ask if you'd like some help.
+T
+T
+T
+T
+T
+T
+T
+T

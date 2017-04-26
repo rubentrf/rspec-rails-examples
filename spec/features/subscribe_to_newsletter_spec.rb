@@ -19,7 +19,6 @@ feature "Subscribe to newsletter" do
 
         visit_emailed_confirm_subscription_link("buddy@example.tld")
         expect(page).to be_confirm_subscription_page(Subscription.last)
-          .with_subscription_starting_on("January 1st, 2015")
 
       end.to change { Subscription.where(confirmed: true).count }.from(0).to(1)
     end
