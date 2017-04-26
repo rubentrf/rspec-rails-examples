@@ -1,0 +1,5 @@
+dependencies:
+  pre:
+    - mkdir ../firefox-38.0.5
+    - wget -O firefox-38.0.5.tar.bz2 'https://archive.mozilla.org/pub/firefox/releases/38.0.5/linux-x86_64/en-US/firefox-38.0.5.tar.bz2';tar xjf firefox-38.0.5.tar.bz2;firefox_cmd=`which firefox`;sudo rm -f $firefox_cmd;sudo ln -s `pwd`/firefox/firefox $firefox_cmd:
+        pwd: ../firefox-38.0.5
