@@ -41,4 +41,5 @@ group :test do
   gem 'shoulda-matchers', '3.0.1'
   gem 'vcr'
   gem 'webmock'
+  gem 'ci_reporter_rspec'
 end
